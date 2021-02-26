@@ -4,6 +4,13 @@
 大學生
 ## 興趣
 打遊戲
+```c
+#int main()
+{
+  printf("Hello World!");
+  return 0;
+}
+```
 
 ## 好玩的圖
 [有一個網址](https://suv5225.github.io/)
